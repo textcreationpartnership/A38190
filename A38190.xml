@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas there are many and great abuses daily committed by the importing into and exporting out of this kingdome, divers prohibited goods and merchandise, contrary to the lawes ...</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38190</idno>
+            <idno type="STC">Wing E2496A</idno>
+            <idno type="STC">ESTC R36416</idno>
+            <idno type="EEBO-CITATION">15689992</idno>
+            <idno type="OCLC">ocm 15689992</idno>
+            <idno type="VID">104389</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104389)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1591:90)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas there are many and great abuses daily committed by the importing into and exporting out of this kingdome, divers prohibited goods and merchandise, contrary to the lawes ...</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first 3 lines of text.</note>
+                  <note>At head of title: Die Martis, 30. Maii, 1645.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Smuggling --  England.</term>
+               <term>Customs administration --  England.</term>
+               <term>Tariff --  Law and legislation --  Criminal provisions.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:104389:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <opener>
+               <dateline>
+                  <date>Die Martis, 30. Maii, 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas there are many and great abuſes daily committed, by the importing into, and exporting out of this Kingdome, divers prohibited Goods and Merchandize, contrary to the Lawes; And alſo for that there are divers practiſes of late uſed by Merchants and others, to deceive his Majeſty and the Parliament, of ſuch cuſtomes and duties as are due and payable for ſuch Goods as are imported and exported as aforeſaid; For preven<g ref="char:EOLhyphen"/>tion whereof for the future, It is Ordained by the Lords and Commons in Parliament, That <hi>Thomas Andrewes, John Fowke, Richard Chambers,</hi> and <hi>William Barkeley,</hi> Aldermen of the City of <hi>London, Maurice Thompſon, Francis Allyn, Iames Ruſſell,</hi> and <hi>Stephen Eſtwick</hi> Merchants, who are by an Ordinance of both Houſes of Parliament, of the one &amp; twentieth of <hi>Ianuary</hi> laſt, appoynted and conſtituted Commiſſioners and Collectors, to receive all ſuch ſums of money which ſhould at any time hereafter be payd for cuſtomes, or advanced by way of Loane, or otherwiſe, for and in reſpect of Goods and Merchandize exported out of, and imported into the Port of <hi>London,</hi> and all other Por<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s within the Kingdome of <hi>England</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Barwick;</hi> As alſo all Deputy-Collectors, Surveiors, Searchers, Waitors, and all other Officers which are, or ſhall be deputed and apoynted by the ſaid Commiſſioners under their hands and Seales, as their Deputies, Factors, or Servants, for the managing of the Affaires of the cuſtomes, and re<g ref="char:EOLhyphen"/>ceipt of the ſaid monies, payd and advanced as aforeſaid, in the ſeverall Ports aforeſaid, and their members; ſhall have full power and authority to goe on Board, and enter into any Ship, Hoye, Barque, Bottome, Boate, or other Veſſell whatſoever, as well by night as by day, Ryding, ly<g ref="char:EOLhyphen"/>ing, or being within any the ſeverall Ports, Havens, Creeks, or other places; As alſo in the day time, to goe and enter into all, or any Cellors, Vaults, Ships, Warehouſes, or other places with<g ref="char:EOLhyphen"/>in the ſaid Kingdome of <hi>England</hi> Dominion of <hi>Wales,</hi> and Towne of <hi>Barwick,</hi> to ſee, Surveigh, and make ſearch for any ſuch prohibited Goods or Merchandizes as aforeſaid: And likewiſe any other Goods or Merchandize, either put on Board any Ship or Veſſell, or taken out and carried a<g ref="char:EOLhyphen"/>way, or intended to be carried away, (the cuſtomes and other duties for the ſame, having not beene fully ſatisfied and payd) and the ſaid Goods to Seize, Attatch, carry away, and put into ſafe cuſtody: And it is further Ordained by the Lords and Commons aforeſaid, that upon all ſuch Seiz<g ref="char:EOLhyphen"/>ures made by any of the Collectors, Serveiors, Searchers, Waitors, or other Officers, Depu<g ref="char:EOLhyphen"/>ties, Factors, or Servants of the Commiſſioners aforeſaid, or by the Kings Officers, or any o<g ref="char:EOLhyphen"/>ther perſon or perſons, certificate ſhall be by them reſpectively forthwith thereof made unto the ſaid Commiſſioners: And that no fraudulent compoſition ſhall be made by the ſaid Officers to the prejudice of the Kingdome, and the loſſe of the cuſtomes, and other duties, due and payable upon the ſaid Goods and Merchandizes as aforeſaid: And it is further Ordained by the Lords and Commons aforeſaid, that the ſaid Commiſſioners of the cuſtomes, ſhall have power from time to time to chuſe and depute a Meſſenger to attend their Service, and him againe at their pleaſure to diplace, and others to Subſtitute, which Meſſengers by them ſo choſen, ſhall have to ſummon or Attatch all or any ſuch perſon or perſons as ſhall be refractory, or diſobedient to the Lawes, or Ordinances made for the payment of cuſtoms, for advance of monies, or that ſhall affront or abuſe the ſaid Commiſſioners, their deputies, factors or ſervants, in the execution of their ſeverall duties or ſervices, &amp; the perſons ſo offending to bring before the honorable Houſe of Commons or Commit<g ref="char:EOLhyphen"/>tee of the Navy, to anſwer ſuch their miſdemeanors &amp; miſcarriages: And it is further Ordained, that ſuch ſecurity as the Committee of the Navy, or the Commiſſioners of the Cuſtomes ſhall think fit to require of any perſon, or perſons, for the better manadging of the buſineſſes afore<g ref="char:EOLhyphen"/>ſaid, ſhall be taken in the name of the Serieant at Armes for the time being attending the Houſe of Commons, to the uſe of the Common-Wealth, and for the better enabling them the aforeſaid Commiſſioners, as alſo of their Deputies, Factors, and Servants by them as aforeſaid, autho<g ref="char:EOLhyphen"/>riſed and appointed to tranſact and performe what is required of them in the premiſes: It is further Ordained by the Lords and Commons aforeſaid: And it is hereby required, that all Cuſtommers, Comptroulors, ſearchers and all other His Majeſties officers of, or belonging to the Cuſtomes in all the ports and places aforeſaid, as alſo all and euery the Officers of, or belong<g ref="char:EOLhyphen"/>ing to the Admiraltie, all Vice Admiralls, Captaines of Ships, and Forts, and all Iuſtices of Peace, Majors Sherriffs, Baliffs, Conſtables, and all other His Majeſties Officers, Miniſters and Subjects whatſoever, ſhall from time to time be aiding and aſſiſting to the ſaid Commiſſioners and to all and every their Deputies, Factors, and Seruants, by them as aforeſaid, deputed, and appointed, in the execution of the ſaid ſervice, and that all and every the ſaid Commiſſioners, their Deputies, Factors, and Servants, and all thoſe who ſhall be aiding and Aſiſting unto them ſhall be defended and ſaued harmeleſſe by the Authority of both Houſes of Parliament, and that this Ordinance ſhall, be fortwith Printed and Publiſhed, and ſent to the ſeverall ports of this King<g ref="char:EOLhyphen"/>dome.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
